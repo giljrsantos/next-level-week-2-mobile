@@ -31,7 +31,7 @@ Você também verá os erros no console.
 
 # ScreenShot Web Mobile
 <p align="center">
-<img src="./src/assets/images/screenshot/Screenshot_1.png">
+<img src="https://github.com/giljrsantos/next-level-week-2-mobile/blob/master/src/assets/images/screenShot/Screenshot_1.jpg">
 </p>
 <p align="center">
 <img src="./src/assets/images/screenshot/Screenshot_2.png">
