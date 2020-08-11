@@ -34,7 +34,7 @@ Você também verá os erros no console.
 <img src="https://github.com/giljrsantos/next-level-week-2-mobile/blob/master/src/assets/images/screenShot/Screenshot_1.jpg">
 </p>
 <p align="center">
-<img src="https://github.com/giljrsantos/next-level-week-2-mobile/blob/master/src/assets/images/screenShot/Screenshot_2.jpg">
+<img src="https://github.com/giljrsantos/next-level-week-2-mobile/blob/master/src/assets/images/screenShot/Screenshot_6.jpg">
 </p>
 <p align="center">
 <img src="https://github.com/giljrsantos/next-level-week-2-mobile/blob/master/src/assets/images/screenShot/Screenshot_3.jpg">
