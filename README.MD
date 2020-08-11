@@ -34,11 +34,14 @@ Você também verá os erros no console.
 <img src="https://github.com/giljrsantos/next-level-week-2-mobile/blob/master/src/assets/images/screenShot/Screenshot_1.jpg">
 </p>
 <p align="center">
-<img src="./src/assets/images/screenshot/Screenshot_2.png">
+<img src="https://github.com/giljrsantos/next-level-week-2-mobile/blob/master/src/assets/images/screenShot/Screenshot_2.jpg">
 </p>
 <p align="center">
-<img src="./src/assets/images/screenshot/Screenshot_3.png">
+<img src="https://github.com/giljrsantos/next-level-week-2-mobile/blob/master/src/assets/images/screenShot/Screenshot_3.jpg">
 </p>
 <p align="center">
-<img src="./src/assets/images/screenshot/Screenshot_4.png">
+<img src="https://github.com/giljrsantos/next-level-week-2-mobile/blob/master/src/assets/images/screenShot/Screenshot_4.jpg">
+</p>
+<p align="center">
+<img src="https://github.com/giljrsantos/next-level-week-2-mobile/blob/master/src/assets/images/screenShot/Screenshot_5.jpg">
 </p>
